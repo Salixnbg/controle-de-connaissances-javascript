@@ -1,3 +1,6 @@
+//EX1
+
+
 function lengthOfLastWord(s) {
   let count = 0;
 
